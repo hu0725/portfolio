@@ -18,6 +18,7 @@
 </head>
 <body>
   <!-- 嵌入PDF，src替换为你的PDF文件名 -->
-  <embed src="https://github.com/hu0725/portfolio/edit/main/UI%E4%BD%9C%E5%93%81%E9%9B%86-%E8%83%A1%E9%9B%A8%E6%B8%85-6%E5%B9%B4.pdf" type="application/pdf">
+  <embed src="UI作品集-胡雨清-6年.pdf" type="application/pdf">
 </body>
 </html>
+
